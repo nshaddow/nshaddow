@@ -2,7 +2,7 @@
 - 👀 I’m interested in text based rpgs
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me: email-Nshaddow1234@gmail.com
+- 📫 How to reach me: email- Nshaddow1234@gmail.com
 
 <!---
 nshaddow/nshaddow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
